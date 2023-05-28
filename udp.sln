@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "server\server.csproj", "{D4EF71BD-6E3B-4172-8DCA-5655219BC543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{0549039C-ADA8-45EA-8232-C70B4EC2319E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4EF71BD-6E3B-4172-8DCA-5655219BC543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4EF71BD-6E3B-4172-8DCA-5655219BC543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4EF71BD-6E3B-4172-8DCA-5655219BC543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4EF71BD-6E3B-4172-8DCA-5655219BC543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0549039C-ADA8-45EA-8232-C70B4EC2319E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0549039C-ADA8-45EA-8232-C70B4EC2319E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0549039C-ADA8-45EA-8232-C70B4EC2319E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0549039C-ADA8-45EA-8232-C70B4EC2319E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
